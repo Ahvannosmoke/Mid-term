@@ -1,0 +1,2 @@
+two_links
+-DCATKIN_DEVEL_PREFIX=/home/vann/ws2/devel -DCMAKE_INSTALL_PREFIX=/home/vann/ws2/install -G Unix Makefiles
