@@ -1,8 +1,0 @@
-prefix=/home/vann/ws2/devel
-
-Name: two_links
-Description: Description of two_links
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
